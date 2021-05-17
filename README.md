@@ -25,7 +25,7 @@ and updating nodes' properties.
 
 ### `document.createElement()`
 
-Creating an element in JavaScript is an easy process. Simply call
+,m.jhCreating an element in JavaScript is an easy process. Simply call
 `document.createElement('tagName')`, where `tagName` is the name of any valid HTML
 tag (e.g., `'p'`, `'div'`, `'span'`, etc.).
 
